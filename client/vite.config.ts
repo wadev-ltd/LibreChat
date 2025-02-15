@@ -66,8 +66,8 @@ export default defineConfig({
         navigateFallbackDenylist: [/^\/oauth/],
       },
       manifest: {
-        name: 'LibreChat',
-        short_name: 'LibreChat',
+        name: 'Wadev AI',
+        short_name: 'Wadev AI',
         start_url: '/',
         display: 'standalone',
         background_color: '#000000',
